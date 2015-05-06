@@ -1,8 +1,8 @@
-How To Use Find and Locate to Search for Files on a Linux VPS
-
+# How To Use Find and Locate to Search for Files on a Linux VPS
+[https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-a-linux-vps]
 Tags: Linux Basics, System Tools, Linux Commands
 
-Introduction
+## Introduction
 
 One problem users run into when first dealing with a Linux machine is how to find the files they are looking for.
 
@@ -328,10 +328,9 @@ Database /var/lib/mlocate/mlocate.db:
     1,504,439 bytes in file names
     594,851 bytes used to store database
 
-Conclusion
+## Conclusion
 
 Both find and locate are good ways to find files on your system. It is up to you to decide which of these tools is appropriate in each situation.
 
 Find and locate are powerful commands that can be strengthened by combining them with other utilities through pipelines. Experiment with filtering by using commands like wc, sort, and grep.
 
-[https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-a-linux-vps]
